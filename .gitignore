@@ -1,0 +1,6 @@
+settings.py
+bot_ai
+.idea
+__pycache__/
+application_log.log
+main test.py
